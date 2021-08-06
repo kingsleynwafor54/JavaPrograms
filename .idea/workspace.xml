@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f347bda-881b-4462-9f1e-eddfec3b87e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FileOnePractices/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/FileOnePracticesTest/PracticeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileOnePractices/CreateTextFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CodeSnare" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSnare" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Kata" beforeDir="false" afterPath="$PROJECT_DIR$/../Kata" afterDir="false" />
@@ -54,7 +53,20 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Practice">
+  <component name="RunManager" selected="Application.CreateTextFile">
+    <configuration name="CreateTextFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileOnePractices.CreateTextFile" />
+      <module name="JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FileOnePractices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hello" />
       <module name="JavaProjects" />
@@ -75,13 +87,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -98,6 +112,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CreateTextFile" />
         <item itemvalue="Application.Practice" />
         <item itemvalue="JUnit.HelloTest.methodToTestHelloWorld" />
         <item itemvalue="Application.Hello" />
@@ -115,7 +130,8 @@
       <workItem from="1628158008408" duration="68000" />
       <workItem from="1628176310018" duration="3792000" />
       <workItem from="1628197542194" duration="6060000" />
-      <workItem from="1628240928209" duration="4027000" />
+      <workItem from="1628240928209" duration="4332000" />
+      <workItem from="1628250073864" duration="2105000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1628207525947</created>
@@ -132,6 +148,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+    <MESSAGE value="Files and Stream(initial practice)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Files and Stream(initial practice)" />
   </component>
 </project>
