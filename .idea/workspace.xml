@@ -2,112 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f347bda-881b-4462-9f1e-eddfec3b87e6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileOnePractices/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/FileOnePracticesTest/PracticeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CodeSnare" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSnare" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Kata" beforeDir="false" afterPath="$PROJECT_DIR$/../Kata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Mavin-Mp3" beforeDir="false" afterPath="$PROJECT_DIR$/../Mavin-Mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/AccountTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/ArrayNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Asterisks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Atm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/AtmTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/BankingAppTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/BusinessCalculation/AccountMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/BusinessCalculation/KingLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/BusinessCalculation/MilePerGallon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/BusinessCalculation/MyAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/CalculatingSales.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Chapter3/TddClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Chapter4/LearningTDD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Chapter4/PractiseOfWhileLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Chapter4/RandomNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Chapter4/SentinelValue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Chapter4/Tabular.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Chapter4/TabularMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Chapter4/TabularOutput.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Chapter4/TabularOutputTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Chapter4/TabularTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Chapter4/TwoLargestNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Chapter4/TwoLargestNumberTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Chapter4/ValidateUserInput.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Chapter5/BankingApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Chapter5/Calculate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Chapter5/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Chapter5/CalculatorMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Chapter5/CalculatorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Chapter5/ChapterFour.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Chapter5/KataTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Chapter5/MilePerGallonTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Chapter7/ArrayKata.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Chapter7/ArrayKataTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Chapter7/Card.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Chapter7/DeckOfCardTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Chapter7/DeckOfCards.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/CheckerBoard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/CodeSnare/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/CodeSnare/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/CodeSnare/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/CodeSnare/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/CodeSnare/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/CodeSnare/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/CodeSnare/ChapterSix/ChapterSix.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/CodeSnare/CodeSnare.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/CodeSnare/CodeSnare2/CodeSnare2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Comparison.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/CompoundInterest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Factorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/KataPrice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/KataTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/LargestNumberloop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/LotteryGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/LotteryGameTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Maven-Mp3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Maven-Mp3/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Mavin-Mp3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Mavin-Mp3/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Mavin-Mp3/out/production/Mavin-Mp3/com/kingsley/Africa/Cooperate Affairs Commission Receipt.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Mavin-Mp3/src/com/kingsley/Africa/Cooperate Affairs Commission Receipt.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/MaximumFinder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/MultiArrayMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/MultiArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/NewLife.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/NumberLooping.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/PalindromeInNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/PrimeNumbersWithLoops.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/RandomNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/SeparatingNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/StaticKata.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/StaticPractices.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Switch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/africa/semicolon/mp3Player/ArrayAutoGenerate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/africa/semicolon/mp3Player/ArrayAutoGenerateTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/africa/semicolon/mp3Player/ArrayDiceRolling.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/africa/semicolon/mp3Player/ArrayTutorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/africa/semicolon/mp3Player/Bank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/africa/semicolon/mp3Player/BarChart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/africa/semicolon/mp3Player/BarChartTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/africa/semicolon/mp3Player/ConstructorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/africa/semicolon/mp3Player/GameOfCrap$Status.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/africa/semicolon/mp3Player/GameOfCrap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/africa/semicolon/mp3Player/LoopTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/africa/semicolon/mp3Player/LotteryGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/africa/semicolon/mp3Player/LotteryGameTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/africa/semicolon/mp3Player/Music.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/africa/semicolon/mp3Player/MusicState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/africa/semicolon/mp3Player/PersonsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/africa/semicolon/mp3Player/RandomInteger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/africa/semicolon/mp3Player/RandomIntegersTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/africa/semicolon/mp3Player/RollingDice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/africa/semicolon/mp3Player/SeatStates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/africa/semicolon/mp3Player/TimeClients.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/africa/semicolon/mp3Player/WorldTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/com/kingsley/Africa/Class7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/com/kingsley/Africa/Constructor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/com/kingsley/Africa/Name.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/com/kingsley/Africa/Palindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/com/kingsley/Africa/PalindromeInNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/com/kingsley/Africa/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/com/kingsley/Africa/StudentSurvey.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/com/kingsley/Africa/Time.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/com/kingsley/Africa/World.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/kata.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +54,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.HelloTest.methodToTestHelloWorld">
+  <component name="RunManager" selected="Application.Practice">
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hello" />
       <module name="JavaProjects" />
@@ -163,15 +62,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileOnePractices.Practice" />
+      <module name="JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FileOnePractices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -188,6 +98,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Practice" />
         <item itemvalue="JUnit.HelloTest.methodToTestHelloWorld" />
         <item itemvalue="Application.Hello" />
       </list>
@@ -203,11 +114,24 @@
       <updated>1628158003853</updated>
       <workItem from="1628158008408" duration="68000" />
       <workItem from="1628176310018" duration="3792000" />
-      <workItem from="1628197542194" duration="5315000" />
+      <workItem from="1628197542194" duration="6060000" />
+      <workItem from="1628240928209" duration="4027000" />
     </task>
+    <task id="LOCAL-00001" summary="second commit">
+      <created>1628207525947</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628207525947</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
 </project>
