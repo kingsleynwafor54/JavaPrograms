@@ -1,12 +1,10 @@
 package FileOnePractices;
 
-import javax.imageio.IIOException;
+
 import java.io.IOException;
 import java.nio.file.Paths;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
-
-import static FileOnePractices.CreateTextFile.openFile;
 
 public class ReadTextFile {
     private static Scanner input;
@@ -36,7 +34,7 @@ public class ReadTextFile {
     }
     public static void closeFile(){
         if (input !=null)
-            input.close();T
+            input.close();
     }
     public static void main(String[] args) {
         openFile();

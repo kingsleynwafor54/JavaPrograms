@@ -4,7 +4,6 @@
     <list default="true" id="5f347bda-881b-4462-9f1e-eddfec3b87e6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../CodeSnare" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSnare" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clients.txt" beforeDir="false" afterPath="$PROJECT_DIR$/clients.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FileOnePractices/ReadTextFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileOnePractices/ReadTextFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Kata" beforeDir="false" afterPath="$PROJECT_DIR$/../Kata" afterDir="false" />
     </list>
@@ -147,6 +146,7 @@
       <workItem from="1628197542194" duration="6060000" />
       <workItem from="1628240928209" duration="4332000" />
       <workItem from="1628250073864" duration="4844000" />
+      <workItem from="1628348113649" duration="1463000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1628207525947</created>
