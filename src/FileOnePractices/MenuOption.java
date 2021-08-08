@@ -7,9 +7,10 @@ public enum MenuOption {
     DEBIT_BALANCE(3),
     END(4);
     //current menu option
-    private final int value;
+     private final int value;
 
-    private MenuOption(int value){
+   MenuOption(int value){
         this.value=value;
     }
+
 }
