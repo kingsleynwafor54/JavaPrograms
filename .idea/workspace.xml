@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f347bda-881b-4462-9f1e-eddfec3b87e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FileOnePractices/CreditInquiry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GradeException/GradeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GradeException/GradeIndexException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentMethod/Grader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/StudentMethod/GradeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CodeSnare" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSnare" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjects/FileOnePractices/ReadTextFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProjects/FileOnePractices/ReadTextFile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FileOnePractices/MenuOption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileOnePractices/MenuOption.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Kata" beforeDir="false" afterPath="$PROJECT_DIR$/../Kata" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,51 +54,13 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="StudentMethod" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CreditInquiry">
-    <configuration name="CreateTextFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileOnePractices.CreateTextFile" />
-      <module name="JavaProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FileOnePractices.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.GradeTest.testToHandleExceptions">
     <configuration name="CreditInquiry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FileOnePractices.CreditInquiry" />
-      <module name="JavaProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FileOnePractices.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileOnePractices.Practice" />
-      <module name="JavaProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FileOnePractices.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReadTextFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileOnePractices.ReadTextFile" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +83,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloTest.methodToTestHelloWorld" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GradeTest.testToHandleExceptions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaProjects" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="HelloTest" />
-      <option name="METHOD_NAME" value="methodToTestHelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StudentMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="StudentMethod" />
+      <option name="MAIN_CLASS_NAME" value="StudentMethod.GradeTest" />
+      <option name="METHOD_NAME" value="testToHandleExceptions" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GradeTest.testToHandleExceptionsForTheIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StudentMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="StudentMethod" />
+      <option name="MAIN_CLASS_NAME" value="StudentMethod.GradeTest" />
+      <option name="METHOD_NAME" value="testToHandleExceptionsForTheIndex" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GradeTest.testToShowGradeRepository" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StudentMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="StudentMethod" />
+      <option name="MAIN_CLASS_NAME" value="StudentMethod.GradeTest" />
+      <option name="METHOD_NAME" value="testToShowGradeRepository" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GradeTest.testToShowThatTheMethodIsNotNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StudentMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="StudentMethod" />
+      <option name="MAIN_CLASS_NAME" value="StudentMethod.GradeTest" />
+      <option name="METHOD_NAME" value="testToShowThatTheMethodIsNotNull" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -132,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.GradeTest.testToHandleExceptions" />
+        <item itemvalue="JUnit.GradeTest.testToHandleExceptionsForTheIndex" />
+        <item itemvalue="JUnit.GradeTest.testToShowGradeRepository" />
+        <item itemvalue="JUnit.GradeTest.testToShowThatTheMethodIsNotNull" />
         <item itemvalue="Application.CreditInquiry" />
-        <item itemvalue="Application.ReadTextFile" />
-        <item itemvalue="Application.CreateTextFile" />
-        <item itemvalue="Application.Practice" />
-        <item itemvalue="JUnit.HelloTest.methodToTestHelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +172,9 @@
       <workItem from="1628250073864" duration="4844000" />
       <workItem from="1628348113649" duration="1463000" />
       <workItem from="1628403433216" duration="1967000" />
-      <workItem from="1628442873362" duration="2575000" />
+      <workItem from="1628442873362" duration="3328000" />
+      <workItem from="1628520478573" duration="502000" />
+      <workItem from="1628592204110" duration="7339000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1628207525947</created>
