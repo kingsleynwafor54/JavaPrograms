@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f347bda-881b-4462-9f1e-eddfec3b87e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/GradeException/GradeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GradeException/GradeIndexException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentMethod/Grader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/StudentMethod/GradeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileOnePractices/ProgrammingToPrinter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CodeSnare" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSnare" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/JavaProjects/StudentMethod/GradeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/JavaProjects/StudentMethod/GradeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/StudentMethod/GradeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/StudentMethod/GradeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Kata" beforeDir="false" afterPath="$PROJECT_DIR$/../Kata" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,13 +71,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -175,6 +176,7 @@
       <workItem from="1628442873362" duration="3328000" />
       <workItem from="1628520478573" duration="502000" />
       <workItem from="1628592204110" duration="7339000" />
+      <workItem from="1628762116425" duration="1564000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1628207525947</created>

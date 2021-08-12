@@ -29,7 +29,7 @@ public class GradeTest {
 
     @Test
     void testToHandleExceptions() throws GradeException {
-        grader.addGradesToTheRepo(-1);
-        assertEquals(-1, grader.getGradeRepository(0));
+        grader.addGradesToTheRepo(30);
+        assertEquals(30, grader.getGradeRepository(0));
     }
 }
