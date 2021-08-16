@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f347bda-881b-4462-9f1e-eddfec3b87e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FileOnePractices/ProgrammingToPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankingApp/MavenBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/BankingApp/BankingAppTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CodeSnare" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSnare" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/JavaProjects/StudentMethod/GradeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/JavaProjects/StudentMethod/GradeTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/StudentMethod/GradeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/StudentMethod/GradeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FileOnePractices/ProgrammingToPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileOnePractices/ProgrammingToPrinter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Kata" beforeDir="false" afterPath="$PROJECT_DIR$/../Kata" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,9 +57,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.GradeTest.testToHandleExceptions">
-    <configuration name="CreditInquiry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileOnePractices.CreditInquiry" />
+  <component name="RunManager" selected="Application.ProgrammingToHpPrinter">
+    <configuration name="ProgrammingToHpPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileOnePractices.ProgrammingToHpPrinter" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
@@ -71,15 +71,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -150,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProgrammingToHpPrinter" />
         <item itemvalue="JUnit.GradeTest.testToHandleExceptions" />
         <item itemvalue="JUnit.GradeTest.testToHandleExceptionsForTheIndex" />
         <item itemvalue="JUnit.GradeTest.testToShowGradeRepository" />
         <item itemvalue="JUnit.GradeTest.testToShowThatTheMethodIsNotNull" />
-        <item itemvalue="Application.CreditInquiry" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +174,9 @@
       <workItem from="1628442873362" duration="3328000" />
       <workItem from="1628520478573" duration="502000" />
       <workItem from="1628592204110" duration="7339000" />
-      <workItem from="1628762116425" duration="1564000" />
+      <workItem from="1628762116425" duration="7152000" />
+      <workItem from="1629043436197" duration="643000" />
+      <workItem from="1629102631852" duration="1136000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1628207525947</created>
