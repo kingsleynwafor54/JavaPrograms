@@ -2,11 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f347bda-881b-4462-9f1e-eddfec3b87e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BankingApp/MavenBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/BankingApp/BankingAppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankRepo/AccountType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankingApp/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BankingApp/AccountServicesImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BvnGenerationCentre/BVNService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kata/ReorderStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaveBankException/MavenBankException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MaveBankException/TransactionException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/BankingApp/AccountServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/KataTest/ReOrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/CodeSnare/.idea/CodeSnare.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/Maven-Mp3/.idea/Maven-Mp3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/New Deitel/out/production/New Deitel/New Deitel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/test/Maven-Mp3Player/New Deitel/src/New Deitel.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CodeSnare" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeSnare" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FileOnePractices/ProgrammingToPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileOnePractices/ProgrammingToPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProjects/FileOnePractices/ProgrammingToHpPrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProjects/FileOnePractices/ProgrammingToHpPrinter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BankRepo/AccountRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BankRepo/CustomerRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BankingApp/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BankingApp/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BankingApp/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BankingApp/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/BankingApp/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/BankingApp/AccountTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Kata" beforeDir="false" afterPath="$PROJECT_DIR$/../Kata" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +62,7 @@
     <property name="Repository.Attach.Sources" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -57,90 +74,94 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProgrammingToHpPrinter">
-    <configuration name="ProgrammingToHpPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileOnePractices.ProgrammingToHpPrinter" />
-      <module name="JavaProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FileOnePractices.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.AccountServiceImplTest.findAccountByAccount">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BankingApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BankingApp" />
+      <option name="MAIN_CLASS_NAME" value="BankingApp.AccountServiceImplTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GradeTest.testToHandleExceptions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AccountServiceImplTest.deposit1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StudentMethod.*" />
+          <option name="PATTERN" value="BankingApp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="StudentMethod" />
-      <option name="MAIN_CLASS_NAME" value="StudentMethod.GradeTest" />
-      <option name="METHOD_NAME" value="testToHandleExceptions" />
+      <option name="PACKAGE_NAME" value="BankingApp" />
+      <option name="MAIN_CLASS_NAME" value="BankingApp.AccountServiceImplTest" />
+      <option name="METHOD_NAME" value="deposit1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GradeTest.testToHandleExceptionsForTheIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AccountServiceImplTest.findAccount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StudentMethod.*" />
+          <option name="PATTERN" value="BankingApp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="StudentMethod" />
-      <option name="MAIN_CLASS_NAME" value="StudentMethod.GradeTest" />
-      <option name="METHOD_NAME" value="testToHandleExceptionsForTheIndex" />
+      <option name="PACKAGE_NAME" value="BankingApp" />
+      <option name="MAIN_CLASS_NAME" value="BankingApp.AccountServiceImplTest" />
+      <option name="METHOD_NAME" value="findAccount" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GradeTest.testToShowGradeRepository" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AccountServiceImplTest.findAccountByAccount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StudentMethod.*" />
+          <option name="PATTERN" value="BankingApp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="StudentMethod" />
-      <option name="MAIN_CLASS_NAME" value="StudentMethod.GradeTest" />
-      <option name="METHOD_NAME" value="testToShowGradeRepository" />
+      <option name="PACKAGE_NAME" value="BankingApp" />
+      <option name="MAIN_CLASS_NAME" value="BankingApp.AccountServiceImplTest" />
+      <option name="METHOD_NAME" value="findAccountByAccount" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GradeTest.testToShowThatTheMethodIsNotNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AccountServiceImplTest.openSameTypeOfAccountForSameCustomer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StudentMethod.*" />
+          <option name="PATTERN" value="BankingApp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="StudentMethod" />
-      <option name="MAIN_CLASS_NAME" value="StudentMethod.GradeTest" />
-      <option name="METHOD_NAME" value="testToShowThatTheMethodIsNotNull" />
+      <option name="PACKAGE_NAME" value="BankingApp" />
+      <option name="MAIN_CLASS_NAME" value="BankingApp.AccountServiceImplTest" />
+      <option name="METHOD_NAME" value="openSameTypeOfAccountForSameCustomer" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -148,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ProgrammingToHpPrinter" />
-        <item itemvalue="JUnit.GradeTest.testToHandleExceptions" />
-        <item itemvalue="JUnit.GradeTest.testToHandleExceptionsForTheIndex" />
-        <item itemvalue="JUnit.GradeTest.testToShowGradeRepository" />
-        <item itemvalue="JUnit.GradeTest.testToShowThatTheMethodIsNotNull" />
+        <item itemvalue="JUnit.AccountServiceImplTest.findAccountByAccount" />
+        <item itemvalue="JUnit.AccountServiceImplTest" />
+        <item itemvalue="JUnit.AccountServiceImplTest.openSameTypeOfAccountForSameCustomer" />
+        <item itemvalue="JUnit.AccountServiceImplTest.deposit1" />
+        <item itemvalue="JUnit.AccountServiceImplTest.findAccount" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +197,10 @@
       <workItem from="1628592204110" duration="7339000" />
       <workItem from="1628762116425" duration="7152000" />
       <workItem from="1629043436197" duration="643000" />
-      <workItem from="1629102631852" duration="1136000" />
+      <workItem from="1629102631852" duration="11290000" />
+      <workItem from="1629118743693" duration="21534000" />
+      <workItem from="1629180158612" duration="489000" />
+      <workItem from="1629191383214" duration="10263000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1628207525947</created>
@@ -195,5 +219,19 @@
     <MESSAGE value="second commit" />
     <MESSAGE value="Files and Stream(initial practice)" />
     <option name="LAST_COMMIT_MESSAGE" value="Files and Stream(initial practice)" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/test/KataTest/ReOrderTest.java</url>
+          <line>10</line>
+          <properties class="KataTest.ReOrderTest" method="testReorderMethod">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

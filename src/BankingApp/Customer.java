@@ -1,12 +1,23 @@
 package BankingApp;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Customer {
     private long bvn;
     private String  firstName;
     private String lastName;
     private String email;
+
+
+
     private String phoneNumber;
     private String password;
+    private List<Account> accountList=new ArrayList<>();
+
+    public List<Account> getAccountList() {
+        return accountList;
+    }
 
     public long getBvn() {
         return bvn;
@@ -56,5 +67,16 @@ public class Customer {
         this.password = password;
     }
 
-
+    @Override
+    public String toString() {
+        return "Customer{" +
+                "bvn=" + bvn +
+                ", firstName='" + firstName + '\'' +
+                ", lastName='" + lastName + '\'' +
+                ", email='" + email + '\'' +
+                ", phoneNumber='" + phoneNumber + '\'' +
+                ", password='" + password + '\'' +
+                ", accountList=" + accountList +
+                '}';
+    }
 }
